@@ -30,4 +30,4 @@ A barebones starter template set up with Babel, Bootstrap 4, and Sass.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
